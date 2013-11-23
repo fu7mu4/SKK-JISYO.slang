@@ -9,9 +9,9 @@
 
    in first release
 
-   okurinashi 35120 words
-   okuriari       0 words
-   coding     euc-jp   
+   okuri-nashi 35056 words
+   okuri-ari       0 words
+   coding      euc-jp   
 
 ** Words Samples
 
@@ -27,8 +27,9 @@
 
    初回リリースでの情報です。
 
-   okurinashi 35120
-   okuriari       0
+   okuri-nashi 35056 words
+   okuri-ari       0 words
+   coding      euc-jp   
 
    文字コードは EUC-JP になっております。
 
@@ -37,6 +38,8 @@
    人名などの名称が多くなっております。
    SKK辞書のサイズが無駄に増えてしまってもいいかなという人向けです。
 
+   ;; okuri-ari entries.
+   ;; okuri-nasi entries.
    あいおーえすまっぷふぐあいじけん /iOS6マップ不具合事件/
    あいおいゆうこ /相生祐子/
    あいおかちひろ /相岡ちひろ/
@@ -47,7 +50,7 @@
    あいかわあゆむ /相川歩/
    あいかわきずな /藍川絆/
    あいかわきんやぱっくいんじゃーなる /愛川欽也パックインジャーナル/
-   あいかわけい /藍川珪/
+
 
 
   
