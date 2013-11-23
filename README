@@ -1,0 +1,53 @@
+* README in English
+
+  This project gives you to SKK DICTIONARY for jargon or slang in Japanese.
+  Those words are not listed in the standard dictionary, SKK-JISYO.L, SKK-JISYO.jinmei etc.
+
+  This Dictinary are released under MIT License.
+
+** Dictionary Info 
+
+   in first release
+
+   okurinashi 35120 words
+   okuriari       0 words
+   coding     euc-jp   
+
+** Words Samples
+
+   See Japanese section.
+
+* README in Japanese
+
+  このプロジェクトは いわゆるネット上で使用されている語句の SKK 辞書を提供します。
+
+  これらの語句は、SKKの通常の辞書( L辞書や人名辞書などの)を取り除いたものになっております。
+
+** 辞書情報
+
+   初回リリースでの情報です。
+
+   okurinashi 35120
+   okuriari       0
+
+   文字コードは EUC-JP になっております。
+
+** 収録語彙の例
+
+   人名などの名称が多くなっております。
+   SKK辞書のサイズが無駄に増えてしまってもいいかなという人向けです。
+
+   あいおーえすまっぷふぐあいじけん /iOS6マップ不具合事件/
+   あいおいゆうこ /相生祐子/
+   あいおかちひろ /相岡ちひろ/
+   あいおぼえていますか /愛・おぼえていますか/
+   あいか /藍華/愛花/愛佳/
+   あいかえすぐらんちぇすた /藍華・S・グランチェスタ/
+   あいかたさん /相方さん/
+   あいかわあゆむ /相川歩/
+   あいかわきずな /藍川絆/
+   あいかわきんやぱっくいんじゃーなる /愛川欽也パックインジャーナル/
+   あいかわけい /藍川珪/
+
+
+  
